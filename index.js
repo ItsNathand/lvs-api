@@ -9,8 +9,6 @@
     "institut":".la-vie-scolaire.fr"
 } */
 
-export { creds }
-
 import {
     creds
 }
